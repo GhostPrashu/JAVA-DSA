@@ -1,9 +1,7 @@
 
-import java.util.Scanner;
 
 public class basic {
     public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
         int od=0;
         int ev=0;
         int[] a={1,2,3,4,5,6,7,8};
@@ -37,5 +35,6 @@ public class basic {
 
         }
         System.out.println(od-ev);
+        
     }
 }

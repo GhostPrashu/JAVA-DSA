@@ -24,5 +24,6 @@ public class MatrixInputOutput {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
