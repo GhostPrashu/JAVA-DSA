@@ -12,7 +12,7 @@ public class toeplitzmatrix {
                 mat[i][j]=sc.nextInt();
             }
         }
-        boolean toeplitz=true;
+        boolean toeplitz=true; 
         for(int i=1;i<row;i++){
             for(int j=1;j<col;j++){
                 if(i<=j){

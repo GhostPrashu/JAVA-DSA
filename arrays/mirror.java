@@ -11,7 +11,8 @@ public class mirror {
                 j--;
                 i++;
             }
-            else{        return false;
+            else{       
+                 return false;
 }
         }
         return true;

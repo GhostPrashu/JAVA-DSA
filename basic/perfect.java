@@ -16,7 +16,6 @@ public class perfect {
             }
             if(sum==i){
                 count++;
-                if 
                 System.out.println(sum);
             }
         }

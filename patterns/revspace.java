@@ -23,12 +23,12 @@ public class revspace {
             }
              System.out.println();
              
-            }
+        }
         
            
-            }   
+    }   
              
-        }
+}
    
 
 
