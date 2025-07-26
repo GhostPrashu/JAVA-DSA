@@ -1,4 +1,3 @@
-package Strings;
 
 public class strbasics {
     public static void main(String[] args) {
